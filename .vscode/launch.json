@@ -1,0 +1,241 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CountVowelConsonant",
+      "request": "launch",
+      "mainClass": "CountVowelConsonant",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "FahrenheitToCelsius",
+      "request": "launch",
+      "mainClass": "FahrenheitToCelsius",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "PrimeNumbersArray",
+      "request": "launch",
+      "mainClass": "PrimeNumbersArray",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "FahrenheitToCelcius",
+      "request": "launch",
+      "mainClass": "FahrenheitToCelcius",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "FibonacciSeries",
+      "request": "launch",
+      "mainClass": "FibonacciSeries",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "LeapYear",
+      "request": "launch",
+      "mainClass": "LeapYear",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "BoxDemo",
+      "request": "launch",
+      "mainClass": "BoxDemo",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "Box2Demo",
+      "request": "launch",
+      "mainClass": "Box2Demo",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "BasicArray",
+      "request": "launch",
+      "mainClass": "Array.BasicArray",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "StudentInfo",
+      "request": "launch",
+      "mainClass": "BankAccountSystem.StudentInfo",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "EvenNumbers",
+      "request": "launch",
+      "mainClass": "Array.EvenNumbers",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "BubbleSort",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearch",
+      "request": "launch",
+      "mainClass": "BinarySearch",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch",
+      "request": "launch",
+      "mainClass": "LinearSearch",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "CharacterToAscii",
+      "request": "launch",
+      "mainClass": "CharacterToAscii",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "Average",
+      "request": "launch",
+      "mainClass": "Average",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "SumOfIntegers",
+      "request": "launch",
+      "mainClass": "SumOfIntegers",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "DollarToTaka",
+      "request": "launch",
+      "mainClass": "DollarToTaka",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "Conditional",
+      "request": "launch",
+      "mainClass": "Conditional",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "Ellipse",
+      "request": "launch",
+      "mainClass": "Ellipse",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "Trapezoid",
+      "request": "launch",
+      "mainClass": "Trapezoid",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "Circle",
+      "request": "launch",
+      "mainClass": "Circle",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "Square",
+      "request": "launch",
+      "mainClass": "Square",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "Rectangle",
+      "request": "launch",
+      "mainClass": "Rectangle",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "OneToTen",
+      "request": "launch",
+      "mainClass": "OneToTen",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "TriangleArea",
+      "request": "launch",
+      "mainClass": "TriangleArea",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "GradeBookTest",
+      "request": "launch",
+      "mainClass": "GradeBookTest",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "BoxDemo1",
+      "request": "launch",
+      "mainClass": "BoxDemo1",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "MultiplicationTable",
+      "request": "launch",
+      "mainClass": "MultiplicationTable",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "MaxAndMin",
+      "request": "launch",
+      "mainClass": "MaxAndMin",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Calculator",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
