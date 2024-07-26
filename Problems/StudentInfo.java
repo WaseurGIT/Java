@@ -6,9 +6,11 @@ public class StudentInfo {
     private int studentId;
     private int studentClass;
 
+    //getter method is used to give the read access the private field
     public String getStudentName (){
         return studentName;
     }
+    //setter method is used to give the write access the private field 
     public void setStudentName (String studentName){
         this.studentName = studentName;
     }
