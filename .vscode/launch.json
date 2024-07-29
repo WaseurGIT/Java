@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SelectionSort",
+      "request": "launch",
+      "mainClass": "SelectionSort",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "TheGreatest",
+      "request": "launch",
+      "mainClass": "BeeCrowd.TheGreatest",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "ExtremelyBasic",
+      "request": "launch",
+      "mainClass": "BeeCrowd.ExtremelyBasic",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "InsertionSort",
+      "request": "launch",
+      "mainClass": "InsertionSort",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
       "name": "CountVowelConsonant",
       "request": "launch",
       "mainClass": "CountVowelConsonant",

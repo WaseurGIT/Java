@@ -1,3 +1,4 @@
+package Areas;
 import java.util.Scanner;
 
 public class Square {

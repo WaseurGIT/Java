@@ -1,3 +1,5 @@
+package Areas;
+
 import java.util.Scanner;
 
 public class Circle {
@@ -9,7 +11,7 @@ public class Circle {
         double r = scanner.nextDouble();
 
         double area = pi * r * r;
-        System.out.println("Area of Circle: " + area);
+        System.out.println("Area of Circle:%0.4f\n " + area);
 
         scanner.close();
     }
