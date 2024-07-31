@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MiniProject",
+      "request": "launch",
+      "mainClass": "MiniProject.MiniProject",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "Method",
+      "request": "launch",
+      "mainClass": "Method",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "ExceptionHandle",
+      "request": "launch",
+      "mainClass": "ExceptionHandle",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "Break",
+      "request": "launch",
+      "mainClass": "Break",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "DoWhile",
+      "request": "launch",
+      "mainClass": "DoWhile",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
       "name": "Random",
       "request": "launch",
       "mainClass": "Random",
