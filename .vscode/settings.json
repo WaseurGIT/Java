@@ -55,5 +55,33 @@
   "C_Cpp_Runner.useLeakSanitizer": false,
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
-  "C_Cpp_Runner.msvcSecureNoWarnings": false
+  "C_Cpp_Runner.msvcSecureNoWarnings": false,
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 54320,
+      "driver": "PostgreSQL",
+      "name": "SqlLocal",
+      "database": "demo",
+      "username": "root",
+      "password": "2002wase",
+      "connectionTimeout": 30
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "xprotocol",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 33060,
+      "driver": "MySQL",
+      "name": "MySqlLocal",
+      "database": "demo",
+      "username": "root",
+      "password": "wase2002",
+      "connectionTimeout": 30
+    }
+  ]
 }

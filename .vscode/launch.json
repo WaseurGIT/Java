@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Random",
+      "request": "launch",
+      "mainClass": "Random",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "Casting",
+      "request": "launch",
+      "mainClass": "Casting",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "TwoDimensional",
+      "request": "launch",
+      "mainClass": "Array.TwoDimensional",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "Sort",
+      "request": "launch",
+      "mainClass": "Array.Sort",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "Concat",
+      "request": "launch",
+      "mainClass": "Strings.Concat",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
+      "name": "StudentInfo",
+      "request": "launch",
+      "mainClass": "StudentInfo",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
       "name": "SelectionSort",
       "request": "launch",
       "mainClass": "SelectionSort",
