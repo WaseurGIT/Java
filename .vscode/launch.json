@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PencilBox",
+      "request": "launch",
+      "mainClass": "OOP.StudyMaterials.PencilBox",
+      "projectName": "Java_6663512a"
+    },
+    {
+      "type": "java",
       "name": "MiniProject",
       "request": "launch",
       "mainClass": "MiniProject.MiniProject",
