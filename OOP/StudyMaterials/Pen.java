@@ -20,6 +20,9 @@ public class Pen {
     private String color, type;
     private int price;
 
+    public String brandName;
+    public int year; 
+
     // the get method is used to access the private variables in the class,
     // here getColor is used to access the color variable
     public String getColor() {
@@ -48,9 +51,17 @@ public class Pen {
         this.price = price;
     }
 
-    Pen(){
-        System.out.println("Constructor of Pen class");
+    // non parametrized constructor
+    // Pen(){
+    //     System.out.println("Constructor of Pen class");
+    // }
+
+    Pen(String brandName, int year){
+        this.brandName = brandName;
+        this.year = year;
+        System.out.println("Brand Name: "+this.brandName);
     }
+
     public void displayPen(){
         System.out.println("Pen Color : "+color);
         System.out.println("Pen Type : "+type);
