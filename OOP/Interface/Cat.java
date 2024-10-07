@@ -1,4 +1,4 @@
-public class Cat implements Animal{
+public class Cat implements Dog{
 
     public void bark(){
         System.out.println("Cat can not bark");

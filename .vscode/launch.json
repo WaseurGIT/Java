@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Average",
+      "request": "launch",
+      "mainClass": "Average",
+      "projectName": "Java_549e29bb"
+    },
+    {
+      "type": "java",
+      "name": "TheGreatest",
+      "request": "launch",
+      "mainClass": "BeeCrowd.TheGreatest",
+      "projectName": "Java_549e29bb"
+    },
+    {
+      "type": "java",
+      "name": "User",
+      "request": "launch",
+      "mainClass": "Product.User",
+      "projectName": "Java_549e29bb"
+    },
+    {
+      "type": "java",
+      "name": "Movie",
+      "request": "launch",
+      "mainClass": "LabTask_3.Movie",
+      "projectName": "Java_549e29bb"
+    },
+    {
+      "type": "java",
       "name": "PencilBox",
       "request": "launch",
       "mainClass": "OOP.StudyMaterials.PencilBox",
