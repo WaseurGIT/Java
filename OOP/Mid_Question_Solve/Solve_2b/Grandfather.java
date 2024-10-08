@@ -2,13 +2,14 @@ package Solve_2b;
 
 public class Grandfather {
 
-    public int Age;
-    public String Name;
+    int age;
+    String name;
 
-    Grandfather(int Age, String Name) {
-        this.Age = Age;
-        this.Name = Name;
-        System.out.println("Grandfather Age : " + Age);
-        System.out.println("Grandfather Name: " + Name);
+    public Grandfather(int age, String name) {
+        this.age = age;
+        this.name = name;
+
+        System.out.println("Grandfather Name: " + name);
+        System.out.println("Grandfather Age : " + age);
     }
 }

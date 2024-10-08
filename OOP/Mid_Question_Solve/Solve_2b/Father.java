@@ -1,7 +1,8 @@
 package Solve_2b;
 
 public class Father extends Grandfather {
-    Father(int Age, String Name) {
-        super(Age, Name);
+    public Father(int age, String name) {
+
+        super(age, name);
     }
 }
