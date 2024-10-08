@@ -8,7 +8,4 @@ public interface Animal {
     
     
     public void organ();
-    
-
-    
 }
