@@ -1,10 +1,21 @@
 package Solve_3a;
 
 public class Ricestore extends Store {
-    void get_price(){
-        System.out.println("Implementation of the abstract method in Rice Store class");
+    
+    private int ricePrice;
+    private String riceType;
+
+    public Ricestore(int ricePrice, String riceType){
+        this.ricePrice = ricePrice;
+        this.riceType = riceType;
+    }
+
+    
+    int get_price(){
+        return ricePrice;
     };
+
     void display_info(){
-        System.out.println("Implementation of the abstract method in Rice store class");
+        System.out.println("The rice type is: "+riceType + ", The price is: "+ricePrice+"$");
     };
 }

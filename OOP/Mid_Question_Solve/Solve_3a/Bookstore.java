@@ -1,10 +1,18 @@
 package Solve_3a;
 
 public class Bookstore extends Store {
-    void get_price(){
-        System.out.println("Implementation of the abstract method in book store class");
+
+    private int price;
+    private String bookName;
+
+    public Bookstore(int price, String bookName){
+        this.price = price;
+        this.bookName = bookName; 
+    }
+    int get_price(){
+        return price;
     };
     void display_info(){
-        System.out.println("Implementation of the abstract method in book store class");
+        System.out.println("The name of the book is : "+bookName+ ",The price is: "+ price+"$");
     };
 }
