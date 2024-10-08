@@ -1,5 +1,6 @@
 package Solve_1b;
 
-public class Class_C extends Class_A {
+interface Class_C extends Class_A {
 
+    public void showA();
 }
