@@ -1,23 +1,11 @@
 package Solve_2a;
 
-public class Car {
-    
-    private int speed;
-    private int no_of_passenger;
+public class Car extends Vehicle {
+    public Car(int speed, int no_of_passenger) {
+        super(speed, no_of_passenger);
 
-    public int getSpeed(){
-        return speed;
-    }
-
-    public int getPassenger(){
-        return no_of_passenger;
+        System.out.println("The car speed: " + speed);
+        System.out.println("The number of passenger of car: " + no_of_passenger);
     }
 
-    public void setSpeed(int speed){
-        this.speed = speed;
-    }
-    
-    public void setPassenger(int no_of_passenger){
-        this.no_of_passenger = no_of_passenger;
-    }
 }

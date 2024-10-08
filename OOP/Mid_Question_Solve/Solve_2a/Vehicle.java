@@ -2,25 +2,16 @@ package Solve_2a;
 
 public class Vehicle {
 
-    public static void main(String[] args) {
-        Car car = new Car();
-        Bus bus = new Bus();
+    private int speed;
+    private int no_of_passenger;
 
-        car.setSpeed(50);
-        bus.setSpeed(80);
-
-        car.setPassenger(10);
-        bus.setPassenger(40);
-
-        if(car.getSpeed()> bus.getSpeed()){
-            System.out.println("car is faster");
-        }
-        else if(car.getSpeed()<bus.getSpeed()){
-            System.out.println("Bus is faster");
-        }
-        else{
-            System.out.println("I am noob");
-        }
+    public int getSpeed() {
+        return speed;
     }
-    
+
+    public Vehicle(int speed, int no_of_passenger) {
+        this.speed = speed;
+        this.no_of_passenger = no_of_passenger;
+    }
+
 }
