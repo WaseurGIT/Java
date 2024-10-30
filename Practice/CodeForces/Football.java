@@ -5,6 +5,7 @@ public class Football {
         Scanner sc = new Scanner(System.in);
 
         String players = sc.nextLine();
+        sc.close();
         int count = 0;
 
         for(int i=1;i<players.length();i++){
@@ -20,6 +21,6 @@ public class Football {
             }
         }
         System.out.println("NO");
-        sc.close();
+        
     }
 }
