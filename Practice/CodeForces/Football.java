@@ -6,21 +6,13 @@ public class Football {
 
         String players = sc.nextLine();
         sc.close();
-        int count = 0;
-
-        for(int i=1;i<players.length();i++){
-            if(players.charAt(i) == players.charAt(i-1)){
-                count++;
-            }
-            else{
-                count=1;
-            }
-            if(count>=7){
-                System.out.println("YES");
-                return;
-            }
+        
+        if(players.contains("0000000") || players.contains("1111111")){
+            System.out.println("YES");
         }
-        System.out.println("NO");
+        else{
+            System.out.println("NO");
+        }
         
     }
 }
