@@ -1,0 +1,10 @@
+Here are some lab tasks on user-defined exceptions that could help students understand how to
+define and handle custom exceptions:
+Bank Account Management
+
+    ○ Create a BankAccount class with a method to withdraw money.
+    ○ Define custom exceptions like InsufficientFundsException and
+    NegativeAmountException.
+    ○ If a user tries to withdraw more than the balance, throw
+    InsufficientFundsException.
+    ○ If the amount is negative, throw NegativeAmountException.

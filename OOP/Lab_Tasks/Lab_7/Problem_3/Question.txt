@@ -1,0 +1,6 @@
+Generic Box Class
+
+    ● Create a Box&lt;T&gt; class that can store any type of object.
+    ● Add methods to set and get the object from the box.
+    ● Test this class by creating Box instances for different types, such as Box&lt;Integer&gt;,
+    Box&lt;String&gt;, and Box&lt;Double&gt;.

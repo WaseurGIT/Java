@@ -1,0 +1,5 @@
+Age Verification for Voting for USA
+● Write a program that checks if a user is eligible to vote by age.
+● Define a custom exception UnderageException.
+● If the user&#39;s age is below 18, throw UnderageException with a message about the
+eligibility criteria.
