@@ -1,0 +1,25 @@
+Task 1
+Write a program to count the frequency of words in a given string using a Map.
+
+Input:
+"apple banana apple orange banana apple"
+Output:
+{apple=3, banana=2, orange=1}
+
+Task 2
+Write a program to count the frequency of each character in a string using a Map<Character, Integer>.
+
+Input:
+"banana"
+Output:
+{b=1, a=3, n=2}
+
+Task 3
+Create a program that manages students' grades using a Map<String, List<Integer>>.
+
+Input:
+Add: Alice -> [85, 90, 78]  
+Add: Bob -> [92, 88]  
+Output:
+{Alice=[85, 90, 78], Bob=[92, 88]}
+
