@@ -10,8 +10,8 @@ public class AlternateElements {
         int i;
         for( i =0; i< 5;i++){
             arr[i] = sc.nextInt();
-            sc.close();
         }
+        sc.close();
         
         for(i = 0;i<5;i+=2){
             System.out.println(arr[i]);

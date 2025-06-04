@@ -10,23 +10,26 @@ public class LinearSearch {
         for (i = 0; i < 5; i++) {
             arr[i] = sc.nextInt();
         }
-        
+        boolean flag = false;
+
         System.out.println("Enter the target :");
         int t = sc.nextInt();
+
+        sc.close();
         
         for (i = 0; i < 5; i++) {
             if (arr[i] == t) {
                 System.out.println("At index: " + i);
-                break;
-            }
-            else{
-                System.out.println("Invalid Item not in the array");
+                flag = true;
                 break;
             }
         }
-        
-        
-        sc.close();
+
+        if(flag == false){
+            System.out.println("Invalid Item not in the array");
+        }
+            
+
 
     }
 }
